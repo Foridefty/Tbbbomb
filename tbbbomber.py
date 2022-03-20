@@ -15,8 +15,8 @@ print("""
   
   """)                                                        
 
-number=str(input("Enter Your Number: "))
-amount=int(input("Enter Your Amount: "))
+number=str(input("Enter Your Number:"))
+amount=int(input("Enter Your Amount:"))
 url = "https://ss.binge.buzz/otp/send/login"
 
 headers = CaseInsensitiveDict()
